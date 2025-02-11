@@ -14,7 +14,8 @@
 * Reach out with any questions - this isn't intended to be a gotcha. We're happy to help.
 
 ## Task
-* Make an express server that exposes the following 2 endpoints
+* You're going to make an express server that interacts with the Star Wars API (link above). You'll be using the "People" endpoint and the "Planets" endpoint.
+* The server should expose the following 2 endpoints:
 ```
 /people
 /planets
