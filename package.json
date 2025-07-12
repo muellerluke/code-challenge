@@ -1,0 +1,17 @@
+{
+  "name": "code-challenge",
+  "version": "1.0.0",
+  "description": "* [Star Wars API ](https://swapi.dev/)\r * [express.js](https://expressjs.com/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "node-cache": "^5.1.2"
+  }
+}
