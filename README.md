@@ -1,4 +1,13 @@
 # Code Challenge
+## Getting Started
+First, create the `.env` file at the root of the project by copying over the variables from the `.env.example` file.
+Finally, run the following command to start the server
+```
+npm run start
+```
+
+Note: You will need to be using node 18+ because I used the native fetch included.
+
 ## Helpful Links
 * [Star Wars API ](https://swapi.dev/)
 * [express.js](https://expressjs.com/)
